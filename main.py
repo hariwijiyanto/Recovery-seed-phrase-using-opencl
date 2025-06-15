@@ -21,7 +21,7 @@ ctx = cl.create_some_context()
 queue = cl.CommandQueue(ctx, properties=cl.command_queue_properties.PROFILING_ENABLE)
 
 # Load OpenCL kernel
-with open("main.cl") as f:
+with open("kernel/main.cl") as f:
     kernel_src = f.read()
 program = cl.Program(ctx, kernel_src).build()
 kernel = program.verify
