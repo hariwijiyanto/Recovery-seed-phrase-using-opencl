@@ -5,8 +5,9 @@ import hashlib
 import time
 
 # ====== Konfigurasi ======
-ADDRESS_TARGET = "1K4ezpLybootYF23TM4a8Y4NyP7auysnRo"
-WORDLIST_PATH = "text.txt"
+#ADDRESS_TARGET = "1K4ezpLybootYF23TM4a8Y4NyP7auysnRo"
+ADDRESS_TARGET = "1ELEkiRU8FhzWjt2ob7mX4Nkop5CGcVqRQ"
+WORDLIST_PATH = "text2.txt"
 WORDS_IN_MNEMONIC = 12
 
 # Load wordlist subset
