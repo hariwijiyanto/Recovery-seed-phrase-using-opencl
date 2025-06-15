@@ -1,0 +1,44 @@
+abandon
+again
+apart
+assume
+between
+boat
+case
+cause
+civil
+cost
+country
+cousin
+decade
+door
+during
+early
+exchange
+family
+father
+fine
+find
+future
+gold
+have
+heavy
+hidden
+home
+into
+large
+life
+like
+main
+mother
+network
+never
+neutral
+once
+own
+over
+people
+
+present, party, purchase, room, second, shift, silver, since, six, still,
+story, that, they, this, time, today, trap, true, under, until, upper,
+used, wealth, what, when, where, world, zone
